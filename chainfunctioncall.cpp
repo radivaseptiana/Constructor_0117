@@ -14,7 +14,7 @@ class buku{
 
 int main()
 {
-    buku bukuntya;
+    buku bukunya;
     //chaim function calls
     cout<<bukunya.setJudul("Matematika").getJudul();
     return 0;
